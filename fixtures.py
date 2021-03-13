@@ -231,6 +231,9 @@ class myGame:
 		else:
 			return False
 
+	def mim_max(self, ):
+		state = self.get_matrix()
+
 # End of myGame class
 
 def main():
