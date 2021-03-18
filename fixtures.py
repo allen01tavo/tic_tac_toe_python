@@ -21,15 +21,6 @@ class myGame:
 	def get_tile(self):
 		return self._title
 
-	# Converting an string into an array
-	'''
-	def converstion (self):
-
-		self.x = "Mango/I/Love/it"
-		self.tmp = self.x.split("/")
-
-		print(f"{self.tmp[-1]=}")
-	'''
 	# Adding value to a matrix cell
 	def matrix (self, val, position):
 
